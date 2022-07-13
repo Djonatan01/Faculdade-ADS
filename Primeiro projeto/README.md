@@ -1,6 +1,6 @@
 ## Projetos do 2° semestre JAVA
 
-## Pasta de estrututa de código
+## Pasta de estrututa de código modelo aplicado MVC
 
 The workspace contains two folders by default, where:
 
