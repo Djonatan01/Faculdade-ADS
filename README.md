@@ -1,5 +1,2 @@
 # Java Faculdade
- Repositório dos exercícios de JAVA
- 
- Teste de curso de Github!!!!
- Testando vercionamento!!!
+ Repositório dos exercícios de JAVA FATEC 2° semestre
