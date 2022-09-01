@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\bin\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.exe
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\bin\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\bin\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\bin\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\bin\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\refint\2022-08-31_POO_conteudo4_iniciacao.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\2022-08-31_POO_conteudo4_iniciacao.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Carol C#\2022-08-31_POO_Programa1\2022-08-31_POO_conteudo4_iniciacao\obj\Debug\net6.0\ref\2022-08-31_POO_conteudo4_iniciacao.dll
