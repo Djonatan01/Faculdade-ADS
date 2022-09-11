@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-08-31_POO_Programa1\\2022-08-31_POO_conteudo4_iniciacao\\2022-08-31_POO_conteudo4_iniciacao.csproj",
-      "projectName": "2022-08-31_POO_conteudo4_iniciacao",
-      "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-08-31_POO_Programa1\\2022-08-31_POO_conteudo4_iniciacao\\2022-08-31_POO_conteudo4_iniciacao.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-08-31_POO_Programa1\\2022-08-31_POO_conteudo4_iniciacao\\obj\\",
+      "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
