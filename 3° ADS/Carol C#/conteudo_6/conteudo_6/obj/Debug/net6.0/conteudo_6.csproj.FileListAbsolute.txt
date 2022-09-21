@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\bin\Debug\net6.0\conteudo_6.exe
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\bin\Debug\net6.0\conteudo_6.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\bin\Debug\net6.0\conteudo_6.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\bin\Debug\net6.0\conteudo_6.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\bin\Debug\net6.0\conteudo_6.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\refint\conteudo_6.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\conteudo_6.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\conteudo_6\conteudo_6\obj\Debug\net6.0\ref\conteudo_6.dll
