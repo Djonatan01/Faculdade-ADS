@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\bin\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.exe
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\bin\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\bin\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.runtimeconfig.json
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\bin\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\bin\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\refint\2022_10_19_Deigo_Jonatan_3°ADS.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\2022_10_19_Deigo_Jonatan_3°ADS.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\Faculdade-ADS\3° ADS\Carol C#\2022_10_19_Deigo_Jonatan_3°ADS\2022_10_19_Deigo_Jonatan_3°ADS\obj\Debug\net6.0\ref\2022_10_19_Deigo_Jonatan_3°ADS.dll
