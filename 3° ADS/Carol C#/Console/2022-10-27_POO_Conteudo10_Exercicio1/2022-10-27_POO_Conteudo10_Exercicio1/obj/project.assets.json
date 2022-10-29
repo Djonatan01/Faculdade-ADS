@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\Console\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1.csproj",
       "projectName": "2022-10-27_POO_Conteudo10_Exercicio1",
-      "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1.csproj",
+      "projectPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\Console\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\obj\\",
+      "outputPath": "C:\\Users\\diego\\OneDrive\\Documentos\\GitHub\\Faculdade-ADS\\3° ADS\\Carol C#\\Console\\2022-10-27_POO_Conteudo10_Exercicio1\\2022-10-27_POO_Conteudo10_Exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
