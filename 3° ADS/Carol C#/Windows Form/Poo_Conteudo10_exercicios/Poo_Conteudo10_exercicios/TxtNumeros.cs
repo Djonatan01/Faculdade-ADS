@@ -8,12 +8,17 @@ using System.Drawing;
 
 namespace Poo_Conteudo10_exercicios
 {
-    public class TxtNumeros
+    public class TxtNumeros:TextBox 
     {
          public static void Numeros(KeyPressEventArgs e)
         {
-            if (!char.IsDigit(e.KeyChar) && e.KeyChar != 8) 
-                e.Handled=true;
+
+            //if(e.KeyChar != (char)Keys.Return)
+            //{
+            //    e.Handled = true;
+            //}
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && e.KeyChar != ',') 
+               e.Handled=true;
         }
 
     }

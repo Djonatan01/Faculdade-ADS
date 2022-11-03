@@ -104,6 +104,11 @@ namespace Poo_Conteudo10_exercicios
         {
             TxtNumeros.Numeros(e);
         }
+
+        private void txt_Largura_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

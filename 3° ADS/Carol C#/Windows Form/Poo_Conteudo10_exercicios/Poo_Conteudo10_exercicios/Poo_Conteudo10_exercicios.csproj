@@ -63,7 +63,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TxtNumeros.cs" />
+    <Compile Include="TxtNumeros.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <EmbeddedResource Include="Exercicio2.resx">
       <DependentUpon>Exercicio2.cs</DependentUpon>
     </EmbeddedResource>

@@ -65,6 +65,7 @@
             this.txtSalario.Name = "txtSalario";
             this.txtSalario.Size = new System.Drawing.Size(119, 26);
             this.txtSalario.TabIndex = 2;
+            this.txtSalario.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSalario_KeyPress);
             // 
             // txtImposto
             // 

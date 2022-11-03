@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lbPerimetro = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txt_Largura = new System.Windows.Forms.TextBox();
@@ -38,6 +39,7 @@
             this.btDiagonal = new System.Windows.Forms.Button();
             this.lbArea = new System.Windows.Forms.Label();
             this.lbDiagonal = new System.Windows.Forms.Label();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.SuspendLayout();
             // 
             // lbPerimetro
@@ -67,6 +69,7 @@
             this.txt_Largura.Size = new System.Drawing.Size(148, 26);
             this.txt_Largura.TabIndex = 1;
             this.txt_Largura.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txt_Largura.TextChanged += new System.EventHandler(this.txt_Largura_TextChanged);
             this.txt_Largura.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_Largura_KeyPress);
             // 
             // txt_altura
@@ -140,6 +143,11 @@
             this.lbDiagonal.Size = new System.Drawing.Size(0, 20);
             this.lbDiagonal.TabIndex = 9;
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
             // Exercico1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -179,6 +187,7 @@
         private System.Windows.Forms.Label lbArea;
         private System.Windows.Forms.Label lbDiagonal;
         private System.Windows.Forms.Label lbPerimetro;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
     }
 }
 

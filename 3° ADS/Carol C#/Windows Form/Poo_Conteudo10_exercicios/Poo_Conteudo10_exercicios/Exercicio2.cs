@@ -45,5 +45,10 @@ namespace Poo_Conteudo10_exercicios
                     "Erro de preenchimento",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
+
+        private void txtSalario_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            TxtNumeros.Numeros(e);
+        }
     }
 }
