@@ -1,6 +1,7 @@
 <html>
 <head><title>Cadastro de Funcionários</title></head>
 <body>
+    
 	<form method="POST" action='#'>
 		Nome: <input type="text" name="caixa1"><br>
 		CPF: <input type="text" name="caixa2"><br>
